@@ -1,0 +1,7 @@
+csv/*
+hyper/*
+tdsx/*
+hyperd.log
+admin_insights.db
+.env
+.DS_Store
